@@ -5,6 +5,7 @@ Authors: Frank de Meijer and Aras Selvi
 
 To be evaluated by: prof. dr. Herbert Hamers
 
+****************************************************
 Python 3.7 - Jupyter Notebook
 
 External-Packages: NumPy, Matplotlib, NetworkX
