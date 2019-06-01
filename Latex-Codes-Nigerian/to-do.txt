@@ -1,5 +1,0 @@
-\item Add sensitivity analysis as in Herbert's paper.
-\item Mention that Herbert's paper applies weights which come from experts, but we will calculate it via counting the number of victims connected, so this is more usable since for their case they can only use weights after an attack happens.
-\item Add social network image generated from a software, or Tikz
-\item Shapley value simulation (or calculation idk)
-\item Justify the function selection by real life, and make robust sensitivity analysis based on alpha selection for not overfitting
